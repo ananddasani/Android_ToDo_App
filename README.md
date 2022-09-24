@@ -1,6 +1,8 @@
 # Android_ToDo_App
 A ToDo App Without Database
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 #### MainActivity.java
@@ -61,6 +63,6 @@ listView.setAdapter(ad);
 
 # App Highlight
 
-<img src="app_images/To Do Code.png" width="1000" /><br>
+![To Do Code](https://user-images.githubusercontent.com/74413402/192094402-5154e5cb-4fa4-4f55-842c-70c8f4ffa174.png)
+![To Do List App](https://user-images.githubusercontent.com/74413402/192094404-46ea1861-b2d1-4042-829c-66f30f1d4d0c.png)
 
-<img src="app_images/To Do List App.png" width="300" /><br>
